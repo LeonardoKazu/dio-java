@@ -4,8 +4,41 @@
     // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-
-        
+        {
+            "type": "java",
+            "name": "teste",
+            "request": "launch",
+            "mainClass": "Polimorfismo.teste",
+            "projectName": "dio-java-vscode_2b66aab9"
+        },
+        {
+            "type": "java",
+            "name": "FormatadorCepExemplo",
+            "request": "launch",
+            "mainClass": "excecoes.FormatadorCepExemplo",
+            "projectName": "dio-java-vscode_2b66aab9"
+        },
+        {
+            "type": "java",
+            "name": "ExemploExcecao",
+            "request": "launch",
+            "mainClass": "excecoes.ExemploExcecao",
+            "projectName": "dio-java-vscode_2b66aab9"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "excecoes.AboutMe",
+            "projectName": "dio-java-vscode_2b66aab9"
+        },
+        {
+            "type": "java",
+            "name": "ExemploBreakContinue",
+            "request": "launch",
+            "mainClass": "ExemploBreakContinue",
+            "projectName": "dio-java-vscode_2b66aab9"
+        },
         {
             "type": "java",
             "name": "Current File",
@@ -24,7 +57,7 @@
             "name": "MinhaClasse",
             "request": "launch",
             "mainClass": "MinhaClasse",
-            "projectName": "dio-java-vscode_2b66aab9",
+            "projectName": "dio-java-vscode_2b66aab9"
         }
     ]
 }
