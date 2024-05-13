@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Contador",
+            "request": "launch",
+            "mainClass": "ex_contador.Contador",
+            "projectName": "dio-java-vscode_2b66aab9"
+        },
+        {
+            "type": "java",
+            "name": "ContaTerminal",
+            "request": "launch",
+            "mainClass": "ContaTerminal",
+            "projectName": "dio-java-vscode_2b66aab9"
+        },
+        {
+            "type": "java",
+            "name": "ProcessoSeletivo",
+            "request": "launch",
+            "mainClass": "ex_processo_seletivo.ProcessoSeletivo",
+            "projectName": "dio-java-vscode_2b66aab9"
+        },
+        {
+            "type": "java",
             "name": "teste",
             "request": "launch",
             "mainClass": "Polimorfismo.teste",
